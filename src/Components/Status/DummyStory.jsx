@@ -1,0 +1,22 @@
+export const stories = [
+  {
+    image:
+      "https://cdn.pixabay.com/photo/2017/03/20/15/13/wrist-watch-2159351_960_720.jpg",
+  },
+  {
+    image:
+      "https://cdn.pixabay.com/photo/2016/06/16/16/44/clock-1461689_960_720.jpg",
+  },
+  {
+    image:
+      "https://cdn.pixabay.com/photo/2017/02/12/22/21/pocket-watch-2061228_960_720.jpg",
+  },
+  {
+    image:
+      "https://cdn.pixabay.com/photo/2016/09/01/19/53/pocket-watch-1637392_1280.jpg",
+  },
+  {
+    image:
+      "https://cdn.pixabay.com/photo/2015/02/26/17/56/clock-650753_1280.jpg",
+  },
+];
